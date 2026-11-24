@@ -1,0 +1,8 @@
+;;; 
+Export: Release 23.26.3.0.0 - Production on Wed Oct 28 22:15:32 2026
+Version 23.26.3.0.0
+
+Copyright (c) 1982, 2026, Oracle and/or its affiliates.  All rights reserved.
+;;; 
+Connected to: Oracle AI Database 26ai Free Release 23.26.3.0.0 - Develop, Learn, and Run for Free
+ORA-39170: Schema expression 'CLINICA_VS_ENTREGA2' does not correspond to any schemas.
